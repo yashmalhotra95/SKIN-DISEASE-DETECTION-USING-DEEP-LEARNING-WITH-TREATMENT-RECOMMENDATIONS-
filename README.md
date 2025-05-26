@@ -2,7 +2,7 @@
 
 ## Skin Disease Detection and Classification using Deep Learning
 
-This project is a deep learning-based system that detects and classifies multiple skin diseases from medical images and provides tailored treatment recommendations. Designed as a major academic project, it combines CNN-based image classification with a user-friendly GUI for real-time diagnosis.
+This project is a deep learning-based system that detects and classifies multiple skin diseases from medical images and provides tailored treatment recommendations. Designed as an academic project, it combines CNN-based image classification with a user-friendly GUI for real-time diagnosis.
 
 ---
 
