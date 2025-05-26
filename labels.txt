@@ -1,4 +1,4 @@
-background
+Label list for model output
 Acne
 Actinic Keratosis Basal Cell Carcinoma
 Atopic Dermatitis
