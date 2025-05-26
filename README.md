@@ -36,6 +36,4 @@ This project is a deep learning-based system that detects and classifies multipl
 
 ## Dataset
 
-The training data can be downloaded from [Google Drive Link](https://drive.google.com/yourlink).
-
-Place the ZIP file into `data/raw/` and unzip before training.
+The training data can be downloaded from [Google Drive Link](https://drive.google.com/drive/folders/1xiDNneRxTfuqYDGQKaM-xlHk3Vf45Q9b?usp=drive_link).
