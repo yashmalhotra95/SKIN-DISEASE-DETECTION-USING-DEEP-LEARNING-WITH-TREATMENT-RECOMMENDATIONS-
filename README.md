@@ -35,7 +35,7 @@ This project is a deep learning-based system that detects and classifies multipl
 
 ---
 
-## 🛠 Tech Stack
+## Tech Stack
 
 - Python 3.10
 - TensorFlow / Keras
