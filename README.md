@@ -19,7 +19,7 @@ This project is a deep learning-based system that detects and classifies multipl
 
 - **19-class classifier** for diseases such as Acne, Melanoma, Eczema, Fungal Infections, and more.
 - Integrated **treatment mapping system** with disease-specific prescriptions and care guidelines.
-- **Grad-CAM** integration (optional) for model interpretability.
+- **Grad-CAM** integration for model interpretability.
 - GUI app built with **Tkinter** for accessibility and offline use.
 
 ---
