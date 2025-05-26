@@ -8,7 +8,7 @@ This project is a deep learning-based system that detects and classifies multipl
 
 ## Project Overview
 
-- Utilizes a **Convolutional Neural Network (CNN)** with **ResNet50** backbone trained on a dataset of 23 skin diseases.
+- Utilizes a **Convolutional Neural Network (CNN)** with **ResNet50** backbone trained on a dataset of 19 skin diseases.
 - Achieved **90% classification accuracy** using transfer learning and image augmentation techniques.
 - Offers **real-time predictions** through a **Tkinter-based GUI** which accepts both uploaded images and webcam input.
 - Automatically provides **medical recommendations** (medications and precautions) based on the classified condition.
