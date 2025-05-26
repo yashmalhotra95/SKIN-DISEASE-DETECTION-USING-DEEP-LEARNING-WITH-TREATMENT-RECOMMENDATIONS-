@@ -1,0 +1,20 @@
+background
+Acne
+Actinic Keratosis Basal Cell Carcinoma
+Atopic Dermatitis
+Cellulitis Impetigo
+Disorders of Pigmentation
+Eczema
+Exanthems
+Fungal Infections
+Herpes HPV
+Lupus
+Melanoma Skin Cancer
+Poison Ivy
+Psoriasis
+Seborrheic Keratoses
+Systemic Disease
+Urticaria Hives
+Vascular Tumors
+Vasculitis
+Warts Molluscum
