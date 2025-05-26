@@ -24,17 +24,6 @@ This project is a deep learning-based system that detects and classifies multipl
 
 ---
 
-##  Project Structure
-├── app/ # GUI application with live predictions
-├── models/ # Trained Keras .h5 model
-├── src/ # Training scripts and treatment logic
-├── data/ # Raw dataset directory
-├── outputs/ # Visualizations, confusion matrices, metrics
-├── README.md # Project documentation
-└── requirements.txt # Python dependencies
-
----
-
 ## Tech Stack
 
 - Python 3.10
@@ -43,3 +32,10 @@ This project is a deep learning-based system that detects and classifies multipl
 - OpenCV, PIL, NumPy
 - Scikit-learn (evaluation)
 
+---
+
+## Dataset
+
+The training data can be downloaded from [Google Drive Link](https://drive.google.com/yourlink).
+
+Place the ZIP file into `data/raw/` and unzip before training.
